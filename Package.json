@@ -1,6 +1,0 @@
-{
-  "name": "bot-fourex",
-  "dependencies": {
-    "mineflayer": "^4.24.0"
-  }
-}
